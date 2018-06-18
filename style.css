@@ -1,0 +1,114 @@
+.top .gmail{
+  position: absolute;
+  display: inline-block;
+  font-size: 15px;
+  margin-top: 2%;
+  margin-left: 75%;
+}
+
+.top .googleimage {
+    display: inline-block;
+    position: absolute;
+    margin-left: 80%;
+    margin-top: 2%;
+    font-size: 15px;
+}
+
+.gmail a {
+  position: absolute;
+  text-decoration: none;
+  color: black;
+}
+
+.gmail a:hover {
+  text-decoration: underline; color: black;
+}
+
+.googleimage a {
+  position: absolute;
+  text-decoration: none;
+  color: black;
+}
+
+.googleimage a:hover {
+  text-decoration: underline; color: black;
+}
+
+.googleimg {
+  position: absolute;
+  margin-left: 38%;
+  margin-top: 11%;
+
+}
+
+.googleimg img {
+  width:300px;
+  height:100px;
+}
+
+.recherches {
+  height: 100%;
+  margin-top: 20%;
+  margin-left: 35%;
+  position: absolute;
+  width: 200px;
+
+}
+
+.categorie  img{
+  width: 35px;
+  margin-left: 86%;
+  margin-top: 1%;
+  position: absolute;
+}
+
+.aide img {
+  width: 32px;
+  margin-top: 1%;
+  margin-left: 90%;
+  position: absolute;
+}
+
+.profil img {
+  margin-top: 1%;
+  margin-left: 95%;
+  width: 35px;
+}
+
+.Bouton {
+  background-color: #f2f2f2 ;
+  height: 4%;
+  width: 12%;
+  border-radius: 0px;
+  text-align:center;
+  margin-top: 25%;
+  margin-left: 38%;
+  position: absolute;
+}
+.Bouton a {
+  text-decoration: none;
+  color : #757575;
+  font-size: 13px;
+}
+.Bouton:hover{
+   color: black;
+}
+
+.Bouton2 {
+  background-color: #f2f2f2 ;
+  height: 4%;
+  width: 12%;
+  border-radius: 0px;
+  text-align:center;
+  margin-top: 25%;
+  margin-left: 50%;
+  position: absolute;
+}
+.Bouton2 a {
+  text-decoration: none;
+  color : #757575;
+  font-size: 13px;
+}
+.Bouton2:hover{
+  color: black;
+}
