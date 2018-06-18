@@ -1,0 +1,41 @@
+.top {
+  margin-top: 2%;
+  font-size: 15px;
+}
+
+.gmail a {
+  text-decoration: none;
+  color: black;
+}
+
+.gmail a:hover {
+  text-decoration: underline; color: black;
+}
+
+.gmail {
+  margin-left: 80%;
+}
+
+.googleimage a {
+  text-decoration: none;
+  color: black;
+}
+
+.googleimage a:hover {
+  text-decoration: underline; color: black;
+}
+
+.googleimage {
+  margin-left: 85%;
+}
+
+
+
+
+
+
+
+.googleimg img {
+  width:200px;
+  height:50px;
+}
