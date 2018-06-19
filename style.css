@@ -208,37 +208,30 @@ input.champ:focus {
 }
 
 #Publicité {
-  position: absolute;
   padding-left: 2%;
 }
 
 #Entreprise {
-  position: absolute;
-  padding-left: 8%;
+  padding-left: 2%;
 
 }
 
 #Propos {
-  position: absolute;
-  padding-left: 14%;
+  padding-left: 2%;
 }
 
 #Consommateurs {
-  position: absolute;
-  padding-left: 69%;
+  padding-left: 45%;
 }
 
 #Confidentialité {
-  position: absolute;
-  padding-left: 80%;
+  padding-left: 2%;
 }
 
 #Conditions {
-  position: absolute;
-  padding-left: 88%;
+  padding-left: 2%;
 }
 
 #Paramètres {
-  position: absolute;
-  padding-left: 94%;
+  padding-left: 2%;
 }
