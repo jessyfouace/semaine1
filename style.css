@@ -4,6 +4,8 @@
 
 }
 
+/* top page */
+
 #gmail{
   position: absolute;
   display: inline-block;
@@ -40,30 +42,6 @@
   text-decoration: underline; color: black;
 }
 
-.googleimg {
-  position: absolute;
-  margin-left: 38%;
-  margin-top: 11%;
-
-}
-
-.googleimg img {
-  width:300px;
-  height:100px;
-}
-
-.champ {
-  margin-top: 20%;
-  margin-left: 28%;
-  position: absolute;
-  width: 40%;
-  box-shadow: 10px 5px 5px #e4e4e4;
-  border-style: solid;
-  border-width: 1px;
-  border-color: #eaeaea;
-  padding: 10px 10px 10px 10px;
-}
-
 #categorie  img{
   width: 35px;
   margin-left: 80%;
@@ -91,6 +69,32 @@
   padding-right: 20px;
   padding-top:10px;
   padding-bottom: 10px;
+}
+
+/* middle page */
+
+.googleimg {
+  position: absolute;
+  margin-left: 38%;
+  margin-top: 11%;
+
+}
+
+.googleimg img {
+  width:300px;
+  height:100px;
+}
+
+.champ {
+  margin-top: 20%;
+  margin-left: 28%;
+  position: absolute;
+  width: 40%;
+  box-shadow: 10px 5px 5px #e4e4e4;
+  border-style: solid;
+  border-width: 1px;
+  border-color: #eaeaea;
+  padding: 10px 10px 10px 10px;
 }
 
 .Bouton {
@@ -140,6 +144,8 @@
   color: black;
   border: 1px #e4e4e4 solid;
 }
+
+/* bottom page */
 
 .language {
   background-color: #f2f2f2;
