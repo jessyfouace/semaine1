@@ -1,36 +1,42 @@
-.top .gmail{
+* {
+  margin: 0;
+  font-family: sans-serif;
+
+}
+
+#gmail{
   position: absolute;
   display: inline-block;
   font-size: 15px;
   margin-top: 2%;
-  margin-left: 75%;
+  margin-left: 70%;
 }
 
-.top .googleimage {
+#googleimage {
     display: inline-block;
     position: absolute;
-    margin-left: 80%;
+    margin-left: 75%;
     margin-top: 2%;
     font-size: 15px;
 }
 
-.gmail a {
+#gmail a {
   position: absolute;
   text-decoration: none;
   color: black;
 }
 
-.gmail a:hover {
+#gmail a:hover {
   text-decoration: underline; color: black;
 }
 
-.googleimage a {
+#googleimage a {
   position: absolute;
   text-decoration: none;
   color: black;
 }
 
-.googleimage a:hover {
+#googleimage a:hover {
   text-decoration: underline; color: black;
 }
 
@@ -46,44 +52,59 @@
   height:100px;
 }
 
-.recherches {
-  height: 100%;
+.champ {
   margin-top: 20%;
-  margin-left: 35%;
+  margin-left: 28%;
   position: absolute;
-  width: 200px;
-
+  width: 40%;
+  box-shadow: 10px 5px 5px #e4e4e4;
+  border-style: solid;
+  border-width: 1px;
+  border-color: #eaeaea;
+  padding: 10px 10px 10px 10px;
 }
 
-.categorie  img{
+#categorie  img{
   width: 35px;
-  margin-left: 86%;
+  margin-left: 80%;
   margin-top: 1%;
-  position: absolute;
 }
 
-.aide img {
+#aides img {
   width: 32px;
   margin-top: 1%;
-  margin-left: 90%;
+  margin-left: 1%;
   position: absolute;
 }
 
-.profil img {
-  margin-top: 1%;
-  margin-left: 95%;
-  width: 35px;
+.boutonc {
+  margin-top: 0.5%;
+  margin-left: 4.5%;
+  position: absolute;
+  background-color: #4583ec ;
+  border-radius: 0px;
+  position: absolute;
+  line-height: 25px;
+  padding-left:20px;
+  color: white;
+  font-size: 15px;
+  padding-right: 20px;
+  padding-top:10px;
+  padding-bottom: 10px;
 }
 
 .Bouton {
   background-color: #f2f2f2 ;
-  height: 4%;
+  height: 5%;
   width: 12%;
   border-radius: 0px;
   text-align:center;
   margin-top: 25%;
-  margin-left: 38%;
+  margin-left: 35%;
   position: absolute;
+  line-height: 25px;
+  padding: 2px;
+  font-size: 12px;
 }
 .Bouton a {
   text-decoration: none;
@@ -92,23 +113,102 @@
 }
 .Bouton:hover{
    color: black;
+   border: 1px #e4e4e4 solid;
 }
 
 .Bouton2 {
   background-color: #f2f2f2 ;
-  height: 4%;
+  height: 5%;
   width: 12%;
   border-radius: 0px;
   text-align:center;
   margin-top: 25%;
   margin-left: 50%;
   position: absolute;
+  line-height: 25px;
+  padding:2px;
+  font-size:12px;
 }
+
 .Bouton2 a {
   text-decoration: none;
   color : #757575;
   font-size: 13px;
 }
+
 .Bouton2:hover{
   color: black;
+  border: 1px #e4e4e4 solid;
+}
+
+.language {
+  background-color: #f2f2f2;
+  width: 100%;
+  height: 42px;
+  line-height: 22px;
+  position: relative;
+  margin-top: 38.75%;
+  font-size: 15px;
+  color: grey;
+  border-top: 1px #e4e4e4 solid;
+}
+
+.language p {
+  padding-top: 1%;
+  padding-left: 2%;
+}
+
+.bas {
+  border-top: 1px #e4e4e4 solid;
+  padding-top: 1%;
+  font-size: 12px;
+  background-color: #f2f2f2;
+  width: 100%;
+  height: 30px;
+  line-height: 20px;
+}
+
+.bas a {
+  text-decoration: none;
+  color: grey;
+}
+
+.bas a:hover {
+  text-decoration: underline; color: grey;
+}
+
+#Publicité {
+  position: absolute;
+  padding-left: 2%;
+}
+
+#Entreprise {
+  position: absolute;
+  padding-left: 8%;
+
+}
+
+#Propos {
+  position: absolute;
+  padding-left: 14%;
+}
+
+#Consommateurs {
+  position: absolute;
+  padding-left: 69%;
+}
+
+#Confidentialité {
+  position: absolute;
+  padding-left: 80%;
+}
+
+#Conditions {
+  position: absolute;
+  padding-left: 88%;
+}
+
+#Paramètres {
+  position: absolute;
+  padding-left: 94%;
 }
