@@ -41,9 +41,14 @@
   text-decoration: underline; color: black;
 }
 
-#categorie  img{
+#categorie {
   width: 35px;
   margin-left: 83%;
+  margin-top: 1%;
+}
+
+#categorie  img{
+  width: 35px;
   margin-top: 1%;
 }
 
