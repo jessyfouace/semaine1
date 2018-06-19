@@ -130,6 +130,7 @@ input.champ:focus {
   line-height: 25px;
   padding: 2px;
   font-size: 12px;
+  border: 0px #e4e4e4 solid;
 }
 .Bouton a {
   text-decoration: none;
@@ -153,6 +154,7 @@ input.champ:focus {
   line-height: 25px;
   padding:2px;
   font-size:12px;
+  border: 0px #e4e4e4 solid;
 }
 
 .Bouton2 a {
