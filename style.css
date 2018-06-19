@@ -87,6 +87,17 @@
 
 .champ {
   margin-top: 20%;
+  margin-left: 29%;
+  position: absolute;
+  width: 40%;
+  border-style: solid;
+  border-width: 1px;
+  border-color: #eaeaea;
+  padding: 10px 10px 10px 10px;
+}
+
+.champ:hover {
+  margin-top: 20%;
   margin-left: 28%;
   position: absolute;
   width: 40%;
