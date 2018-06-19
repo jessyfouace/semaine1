@@ -1,7 +1,6 @@
 * {
   margin: 0;
   font-family: sans-serif;
-
 }
 
 /* top page */
@@ -11,13 +10,13 @@
   display: inline-block;
   font-size: 15px;
   margin-top: 2%;
-  margin-left: 70%;
+  margin-left: 73%;
 }
 
 #googleimage {
     display: inline-block;
     position: absolute;
-    margin-left: 75%;
+    margin-left: 78%;
     margin-top: 2%;
     font-size: 15px;
 }
@@ -44,20 +43,13 @@
 
 #categorie  img{
   width: 35px;
-  margin-left: 80%;
+  margin-left: 83%;
   margin-top: 1%;
-}
-
-#aides img {
-  width: 32px;
-  margin-top: 1%;
-  margin-left: 1%;
-  position: absolute;
 }
 
 .boutonc {
   margin-top: 0.5%;
-  margin-left: 4.5%;
+  margin-left: 1%;
   position: absolute;
   background-color: #4583ec ;
   border-radius: 0px;
